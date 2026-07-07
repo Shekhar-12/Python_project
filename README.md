@@ -74,7 +74,7 @@ Analyzes the likelihood of the most requested technical skills for:
 - Data Engineer
 - Data Scientist
 
-![Top Skills](Images/Job Likelihood.png)
+![Top Skills](Pyhton_project/Images/Job Likelihood.png)
 
 ---
 
@@ -87,7 +87,7 @@ Identifies the most optimal skills by comparing:
 
 This helps determine which technologies provide the highest return on learning investment.
 
-![Skill Salary](Images/Optimal_skill.png)
+![Skill Salary](Python_project/Images/Optimal_skill.png)
 
 ---
 
@@ -99,7 +99,7 @@ A boxplot comparing salary distributions for various data-related roles, highlig
 - Salary spread
 - Outliers
 
-![Salary Distribution](Images/Salary_analysis.png)
+![Salary Distribution](Python-project/Images/Salary_analysis.png)
 
 ---
 
@@ -115,7 +115,7 @@ Skills tracked include:
 - AWS
 - Tableau
 
-![Skill Trend](Images/Trending_skill.png)
+![Skill Trend](Python-project/Images/Trending_skill.png)
 
 ---
 
