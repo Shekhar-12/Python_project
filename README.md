@@ -115,7 +115,7 @@ Skills tracked include:
 - AWS
 - Tableau
 
-![Skill Trend](Python-project/Images/Trending_skill.png)
+![Skill Trend](https://github.com/Shekhar-12/Python_project/blob/main/Pyhton_project/Images/Trending_skill.png)
 
 ---
 
