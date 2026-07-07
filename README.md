@@ -74,7 +74,7 @@ Analyzes the likelihood of the most requested technical skills for:
 - Data Engineer
 - Data Scientist
 
-![Top Skills](Pyhton_project/Images/Job Likelihood.png)
+![Top Skills]((https://github.com/Shekhar-12/Python_project/blob/main/Pyhton_project/Images/Job%20Likelihood.png))
 
 ---
 
