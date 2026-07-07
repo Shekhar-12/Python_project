@@ -74,7 +74,7 @@ Analyzes the likelihood of the most requested technical skills for:
 - Data Engineer
 - Data Scientist
 
-![Top Skills]((https://github.com/Shekhar-12/Python_project/blob/main/Pyhton_project/Images/Job%20Likelihood.png))
+![Top Skills](https://github.com/Shekhar-12/Python_project/blob/main/Pyhton_project/Images/Job%20Likelihood.png)
 
 ---
 
@@ -99,7 +99,7 @@ A boxplot comparing salary distributions for various data-related roles, highlig
 - Salary spread
 - Outliers
 
-![Salary Distribution]((https://github.com/Shekhar-12/Python_project/blob/main/Pyhton_project/Images/Optimal_skill.png))
+![Salary Distribution](https://github.com/Shekhar-12/Python_project/blob/main/Pyhton_project/Images/Salary_analysis.png)
 
 ---
 
