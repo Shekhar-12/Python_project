@@ -87,7 +87,7 @@ Identifies the most optimal skills by comparing:
 
 This helps determine which technologies provide the highest return on learning investment.
 
-![Skill Salary](Python_project/Images/Optimal_skill.png)
+![Skill Salary]([Python_project/Images/Optimal_skill.png](https://github.com/Shekhar-12/Python_project/blob/main/Pyhton_project/EDA_Intro.ipynb))
 
 ---
 
